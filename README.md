@@ -1,2 +1,2 @@
 # Ml_Lab
-machine learning ;ab exercises
+machine learning lab exercises
